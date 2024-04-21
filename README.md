@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**h1054454/h1054454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my first python programme.
 - 🌱 I’m currently learning how to use Git.
 - 👯 I’m looking to collaborate with Developers who also like to discuss business topics.
@@ -13,4 +8,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/stefansteinberger/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started a coding school without knowing how to program.
+
+
+<!--
+**h1054454/h1054454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
