@@ -10,6 +10,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started a coding school without knowing how to program.
 
+This is the updated version.
 
 <!--
 **h1054454/h1054454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
