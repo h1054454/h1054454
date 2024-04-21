@@ -12,6 +12,11 @@
 
 This is the updated version.
 
+Trying to add a picture:
+![image](https://github.com/h1054454/h1054454/assets/34899624/9b1774f8-5ddf-480c-8a12-07879d84850c)
+
+
+
 <!--
 **h1054454/h1054454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
