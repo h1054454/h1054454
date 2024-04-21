@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 #### Work: I’m currently working on my first python programme.
-
-#### Learning
-- 🌱 #### Learning I’m currently learning how to use Git.
+##### Here are a few things about me:
+- 🔭 I’m currently working on my first python programme.
+- 🌱 I’m currently learning how to use Git.
 - 👯 I’m looking to collaborate with Developers who also like to discuss business topics.
 - 🤔 I’m looking for help with: Learning programming :D
 - 💬 Ask me about: How to get started as developer.
