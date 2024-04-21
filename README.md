@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with Developers who also like to discuss business topics.
 - 🤔 I’m looking for help with: Learning programming :D
 - 💬 Ask me about: How to get started as developer.
-- 📫 How to reach me: https://www.linkedin.com/in/stefansteinberger/ (Please mention that you found my profile via GitHub)
+- 📫 How to reach me: https://www.linkedin.com/in/stefansteinberger (Please mention that you found my profile via GitHub)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started a coding school without knowing how to program.
 
